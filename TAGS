@@ -1,0 +1,156 @@
+
+./deutsch.hs,1136
+data Oracle Oracle25,26
+data Oracle = Oracle{Oracle{25,26
+  oracle_function oracle_function27,28
+deutsch_circuit deutsch_circuit33,34
+deutsch_circuit deutsch_circuit34,35
+constant_oracle_1 constant_oracle_157,58
+constant_oracle_1 constant_oracle_158,59
+constant_oracle_function_1 constant_oracle_function_162,63
+constant_oracle_function_1 constant_oracle_function_163,64
+constant_oracle_2 constant_oracle_268,69
+constant_oracle_2 constant_oracle_269,70
+constant_oracle_function_2 constant_oracle_function_273,74
+constant_oracle_function_2 constant_oracle_function_274,75
+balanced_oracle_1 balanced_oracle_180,81
+balanced_oracle_1 balanced_oracle_181,82
+balanced_oracle_function_1 balanced_oracle_function_185,86
+balanced_oracle_function_1 balanced_oracle_function_186,87
+balanced_oracle_2 balanced_oracle_292,93
+balanced_oracle_2 balanced_oracle_293,94
+balanced_oracle_function_2 balanced_oracle_function_297,98
+balanced_oracle_function_2 balanced_oracle_function_298,99
+simulate simulate107,108
+simulate simulate108,109
+circuit circuit111,112
+circuit circuit112,113
+main main120,121
+
+./deutsch_jozsa.hs,2046
+data Oracle Oracle27,28
+data Oracle = Oracle{Oracle{27,28
+  qubit_num qubit_num29,30
+  function function31,32
+deutsch_jozsa_circuit deutsch_jozsa_circuit35,36
+deutsch_jozsa_circuit deutsch_jozsa_circuit36,37
+constant_oracle_1 constant_oracle_159,60
+constant_oracle_1 constant_oracle_160,61
+constant_oracle_function_1 constant_oracle_function_165,66
+constant_oracle_function_1 constant_oracle_function_166,67
+constant_oracle_2 constant_oracle_271,72
+constant_oracle_2 constant_oracle_272,73
+constant_oracle_function_2 constant_oracle_function_277,78
+constant_oracle_function_2 constant_oracle_function_278,79
+balanced_oracle_1 balanced_oracle_184,85
+balanced_oracle_1 balanced_oracle_185,86
+balanced_oracle_function_1 balanced_oracle_function_190,91
+balanced_oracle_function_1 balanced_oracle_function_191,92
+balanced_oracle_2 balanced_oracle_299,100
+balanced_oracle_2 balanced_oracle_2100,101
+balanced_oracle_function_2 balanced_oracle_function_2105,106
+balanced_oracle_function_2 balanced_oracle_function_2106,107
+balanced_oracle_3 balanced_oracle_3115,116
+balanced_oracle_3 balanced_oracle_3116,117
+balanced_oracle_function_3 balanced_oracle_function_3121,122
+balanced_oracle_function_3 balanced_oracle_function_3122,123
+balanced_oracle_4 balanced_oracle_4129,130
+balanced_oracle_4 balanced_oracle_4130,131
+balanced_oracle_function_4 balanced_oracle_function_4135,136
+balanced_oracle_function_4 balanced_oracle_function_4136,137
+balanced_oracle_5 balanced_oracle_5144,145
+balanced_oracle_5 balanced_oracle_5145,146
+balanced_oracle_function_5 balanced_oracle_function_5150,151
+balanced_oracle_function_5 balanced_oracle_function_5151,152
+balanced_oracle_6 balanced_oracle_6158,159
+balanced_oracle_6 balanced_oracle_6159,160
+balanced_oracle_function_6 balanced_oracle_function_6164,165
+balanced_oracle_function_6 balanced_oracle_function_6165,166
+simulate simulate175,176
+simulate simulate176,177
+circuit circuit179,180
+circuit circuit180,181
+main main188,189
+
+./entanglement.hs,83
+entanglement entanglement15,16
+entanglement entanglement16,17
+main main29,30
+
+./grovers_search.hs,707
+data Oracle Oracle30,31
+data Oracle = Oracle Oracle30,31
+  qubit_num qubit_num31,32
+  function function32,33
+phase_inversion phase_inversion36,37
+phase_inversion phase_inversion37,38
+inversion_about_mean inversion_about_mean45,46
+inversion_about_mean inversion_about_mean46,47
+grover_search_circuit grover_search_circuit66,67
+grover_search_circuit grover_search_circuit67,68
+n_qubit_oracle n_qubit_oracle98,99
+n_qubit_oracle n_qubit_oracle99,100
+n_qubit_oracle_function n_qubit_oracle_function104,105
+n_qubit_oracle_function n_qubit_oracle_function105,106
+simulate simulate112,113
+simulate simulate113,114
+circuit circuit116,117
+circuit circuit117,118
+main main123,124
+
+./hello_quantum_world.hs,108
+hello_quantum_world hello_quantum_world8,9
+hello_quantum_world hello_quantum_world9,10
+main main14,15
+
+./linearCombination/approSynthForFirstQubit.hs,265
+linear_combination_circuit linear_combination_circuit11,12
+linear_combination_circuit linear_combination_circuit12,13
+linear_combination_circuit2 linear_combination_circuit223,24
+linear_combination_circuit2 linear_combination_circuit224,25
+main main34,35
+
+./linearCombination/controlPart.hs,79
+controlPart controlPart10,11
+controlPart controlPart11,12
+main main22,23
+
+./practics/test1.hs,516
+doubleMe doubleMe0,1
+doubleUs doubleUs2,3
+doubleSmallNumber doubleSmallNumber4,5
+doubleSmallNumber' doubleSmallNumber'7,8
+boomBangs boomBangs9,10
+factorial factorial11,12
+factorial factorial12,13
+first first15,16
+first first16,17
+second second18,19
+second second19,20
+third third21,22
+third third22,23
+head' head'24,25
+head' head'25,26
+bmiTell bmiTell28,29
+bmiTell bmiTell29,30
+maximum' maximum'39,40
+maximum' maximum'40,41
+quickSort quickSort44,45
+quickSort quickSort45,46
+
+./simon.hs,440
+data Oracle Oracle14,15
+data Oracle = Oracle Oracle14,15
+  qubit_num qubit_num15,16
+  function function16,17
+simon_circuit simon_circuit20,21
+simon_circuit simon_circuit21,22
+steps steps39,40
+steps steps40,41
+main main56,57
+sample_oracle sample_oracle63,64
+sample_oracle sample_oracle64,65
+sample_function sample_function70,71
+sample_function sample_function71,72
+operator operator78,79
+operator operator79,80

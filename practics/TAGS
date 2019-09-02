@@ -1,0 +1,23 @@
+
+./test1.hs,516
+doubleMe doubleMe0,1
+doubleUs doubleUs2,3
+doubleSmallNumber doubleSmallNumber4,5
+doubleSmallNumber' doubleSmallNumber'7,8
+boomBangs boomBangs9,10
+factorial factorial11,12
+factorial factorial12,13
+first first15,16
+first first16,17
+second second18,19
+second second19,20
+third third21,22
+third third22,23
+head' head'24,25
+head' head'25,26
+bmiTell bmiTell28,29
+bmiTell bmiTell29,30
+maximum' maximum'39,40
+maximum' maximum'40,41
+quickSort quickSort44,45
+quickSort quickSort45,46
